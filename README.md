@@ -6,4 +6,4 @@
 
 I specialize in identifying bugs, creating structured test cases, and validating applications to ensure a smooth user experience. Currently transitioning into automation testing using Selenium.</h3>
 &emsp;
-[![img](https://i.imgur.com/HcaHoth.png)](https://omkarpathak.in)
+[![img](https://i.imgur.com/HcaHoth.png)
