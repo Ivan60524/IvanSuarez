@@ -2,5 +2,7 @@
 <h3 align="center">QA engineer Junior🌟.</h3>
 
 &emsp;
-<h3 align="left">Hi 👋, I'm Ivan Suarez, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, QA Engineer Junior passionate about software quality and continuous improvement.
+
+I specialize in identifying bugs, creating structured test cases, and validating applications to ensure a smooth user experience. Currently transitioning into automation testing using Selenium.</h3>
 &emsp;
