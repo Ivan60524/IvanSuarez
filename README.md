@@ -6,4 +6,7 @@
 
 I specialize in identifying bugs, creating structured test cases, and validating applications to ensure a smooth user experience. Currently transitioning into automation testing using Selenium.</h3>
 &emsp;
-[![img](https://i.imgur.com/HcaHoth.png)
+<!--GIF -->
+<div style="display: flex; justify-content: flex-end;">
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"   />    
+</div>
